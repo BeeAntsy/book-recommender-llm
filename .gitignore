@@ -1,0 +1,2 @@
+#ignore .env where api keys are stored
+/.env
